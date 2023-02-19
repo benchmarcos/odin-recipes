@@ -1,0 +1,24 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color:black
+}
+
+.pics {
+    height: 300px;
+    width: auto;
+    margin-left: 30%;
+    margin-right: auto;
+}
+
+#frontpic {
+    margin-left: 0%;
+}
+
+.home {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
