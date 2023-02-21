@@ -2,19 +2,21 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h1 {
-    color:black
+html { 
+    background-color: white;
+}
+
+.title {
+    background-color: rgb(152, 152, 209);
+    padding: 10px;
+    box-sizing: border-box;
 }
 
 .pics {
-    height: 300px;
-    width: auto;
-    margin-left: 30%;
+    display: block;
+    margin-left: auto;
     margin-right: auto;
-}
-
-#frontpic {
-    margin-left: 0%;
+    width: 50%;
 }
 
 .home {
