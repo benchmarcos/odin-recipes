@@ -3,8 +3,10 @@
 }
 
 html { 
+    box-sizing: border-box;
     background-color: white;
 }
+
 
 .title {
     background-color: rgb(152, 152, 209);
@@ -16,7 +18,7 @@ html {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
+    width: 30%;
 }
 
 .home {
@@ -24,3 +26,4 @@ html {
     color: white;
     font-weight: bold;
 }
+
